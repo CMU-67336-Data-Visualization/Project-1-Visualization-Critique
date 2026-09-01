@@ -6,13 +6,13 @@ In your local folder on your computer for 67-336. Open Terminal at this folder b
 Clone the repo using this command: 
 
 ```bash
-git clone https://github.com/CMU-67336-Data-Visualization/Project01_Visualization_Critique.git
-cd Project01_Visualization_Critique
+git clone https://github.com/CMU-67336-Data-Visualization/Project-1-Visualization-Critique.git
+cd Project1_Visualization_Critique
 ```
 
 ## Step 2: Follow the Project 1 Description 
 
-Open the Project 1 description Word document in this repo and follow the instructions there.
+Open the **Project 1 visualization Critique** document in this repo and follow the instructions there.
 
 ## Step 3: Rename and Edit the Template
 
