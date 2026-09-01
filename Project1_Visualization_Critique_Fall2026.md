@@ -1,6 +1,6 @@
 ###67-336 · Building Data Visualization into Information Systems
 
-# Project 1: Learning to See — A Visualization Critique
+# Project 1: Learning to See — A Visualization Critique and Develop Your Own Taste
 ---
 
 Painters learn to paint by first studying the masters and the failures. That comparative act which is really looking, and asking *why does this work*, or *why doesn't it* is how a painter develops an eye. It cannot be shortcut.
