@@ -1,4 +1,4 @@
-# Project 1: Visualization Critique
+# Project 1: Visualization Critique and Develop Your Own Taste
 
 ## Step 1: Clone the Starter Repository
 In your local folder on your computer for 67-336. Open Terminal at this folder by CD-ing into it. Please refer to this documentation for help on how to do this in resources.
