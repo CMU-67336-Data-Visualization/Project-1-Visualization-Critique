@@ -6,7 +6,7 @@ In your local folder on your computer for 67-336. Open Terminal at this folder b
 Clone the repo using this command: 
 
 ```bash
-git clone https://github.com/CMU-67336-Data-Visualization/Project-1-Visualization-Critique.git
+git clone https://github.com/CMU-67336-Data-Visualization/Project-1-Visualization-Critique
 cd Project1_Visualization_Critique
 ```
 
